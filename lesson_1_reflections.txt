@@ -1,0 +1,3 @@
+This is my first file
+for the git course, let's see
+if I finally understand how it works.
